@@ -1,11 +1,11 @@
 {
   "name": "mm_1",
-  "version": "2.0.7",
+  "version": "2.0.8",
   "description": "Answers",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "postinstall": "git clone https://github.com/PeterJohnson2/mm_1.git --branch 2.0.7 --single-branch ./../../git_modules/mm_1"
+    "postinstall": "git clone https://github.com/PeterJohnson2/mm_1.git --branch 2.0.8 --single-branch ./../../git_modules/mm_1"
   },
   "repository": {
     "type": "git",
