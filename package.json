@@ -1,6 +1,6 @@
 {
   "name": "mm_1",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/PeterJohnson2/mm_1#readme",
   "scripts": {
-    "prepare": "touch ./node_modules/mm_1/wowow.txt"
+    "prepare": "touch ./wowow.txt"
   }
 }
