@@ -1,0 +1,19 @@
+{
+  "name": "mm_1",
+  "version": "1.0.3",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PeterJohnson2/mm_1.git"
+  },
+  "author": "Kate",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PeterJohnson2/mm_1/issues"
+  },
+  "homepage": "https://github.com/PeterJohnson2/mm_1#readme"
+}
