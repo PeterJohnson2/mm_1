@@ -105,3 +105,4 @@ dist
 
 # OPVF
 git_modules/
+.npmignore
